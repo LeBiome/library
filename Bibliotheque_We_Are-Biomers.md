@@ -1,7 +1,7 @@
 ---
 title: Bibliothèque
 description: servez-vous, ajoutez, proposez, partagez. Biomimétisme, Ecologie, Biologie, Design, Numérique, Philosophie, Entrepreneuriat, Economie collaborative, Divers
-image_url: https://visualhunt.com/photos/l/3/library-old-book-the-book-store-books-reading.jpg
+image_url: https://framapic.org/TYeIglNA6XZJ/2gaWKSZmWoxt.jpg
 ---
 
 
