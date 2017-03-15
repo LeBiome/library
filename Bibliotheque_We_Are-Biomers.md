@@ -15,7 +15,7 @@ Ouverture d'un hackpad pour commencer à imaginer les différentes catégories d
 
 * Insérer les titres des ressources avec hyperlien dans les différentes catégories + petites phrases d'introduction à la ressource
 
-Tout cela pour faciliter la gestion de ressources literraires dans la future bibliothèque [lebiome.github.io](https://lebiome.github.io/) 
+Tout cela pour faciliter la gestion de ressources littéraires dans la future bibliothèque [lebiome.github.io](https://lebiome.github.io/) 
 
 Liste de ressources écrites accessible gratuitement via internet et téléchargeables sur les thématiques :  
 
