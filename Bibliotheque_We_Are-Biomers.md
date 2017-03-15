@@ -19,27 +19,28 @@ Tout cela pour faciliter la gestion de ressources literraires dans la future bib
 
 Liste de ressources écrites accessible gratuitement via internet et téléchargeables sur les thématiques :  
 
-1. Biomimétisme
+1.Biomimétisme
 
-2. Ecologie
+2.Ecologie
 
-3. Biologie
+3.Biologie
 
-4. Design
+4.Design
 
-5. Numérique
+5.Numérique
 
-6. Philosophie
+6.Philosophie
 
-7. Entrepreneuriat
+7.Entrepreneuriat
 
-8. Economie collaborative
+8.Economie collaborative
 
-9. Divers
+9.Divers
 <undefined><li>**Elles doivent libres et/ou open source, téléchargeables, de sources sérieuses**</li></undefined>
 
 *   comment définir une source sérieuse?
-*
+
+_Question ouverte à tout utilisateur de cette bibliothèque._
 
 ## Biomimétisme
 
