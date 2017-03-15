@@ -1,3 +1,10 @@
+---
+title: Bibliothèque
+description: servez-vous, ajoutez, proposez, partagez. Biomimétisme, Ecologie, Biologie, Design, Numérique, Philosophie, Entrepreneuriat, Economie collaborative, Divers
+image_url: https://visualhunt.com/photos/l/3/library-old-book-the-book-store-books-reading.jpg
+---
+
+
 # Bibliotheque We Are Biomers
 
 Ouverture d'un hackpad pour commencer à imaginer les différentes catégories de classement des ressources de la bibliothèque à venir.
