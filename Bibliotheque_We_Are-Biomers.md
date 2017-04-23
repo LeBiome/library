@@ -188,6 +188,9 @@ Pour mémoire par @v_dagrain le C3C
 *   [Doo-Sung Yoo - OtherPeoplesPixels](http://s3.otherpeoplespixels.com/sites/27670/assets/zWPO5utttU1ajN5M.pdf)
 *   [Role of Simplicity in Creative Behaviour: The Case of the Poietic Generator](https://www.academia.edu/25652024/Role_of_Simplicity_in_Creative_Behaviour_The_Case_of_the_Poietic_Generator?auto=download) 
 
+* [Inspired design: using interdisciplinarity and biomimicry for software innovation](http://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1024&context=cistechlib) This thesis presents research and proposes a framework for increasing the breadth and depth of interdisciplinary knowledge in the field of computer science. The intent is to address an increasing problem of complexity in software and computing systems.
+
+
 ## Philosophie 
 
 **Du vivant**
